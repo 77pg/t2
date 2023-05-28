@@ -15,6 +15,12 @@ h1{
     height: 400px;
     object-fit: cover;
 }
+.card-title{
+    font-size: 30px;
+}
+.card-text{
+    font-size: 20px;
+}
 /* 文字內容高度 */
 .card-body {
     margin-top:5px ;
